@@ -1,5 +1,3 @@
-base_model.py
-
 #!/usr/bin/python3
 """Defines the BaseModel class."""
 import models
